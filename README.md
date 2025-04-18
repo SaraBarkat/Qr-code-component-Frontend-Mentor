@@ -12,5 +12,5 @@ Ce projet est une solution au défi **"QR Code Component"** de [Frontend Mentor]
 
 ## 📷 Aperçu du projet
 Vous pouvez voir le projet en ligne ici :  
-🔗 **[Démo en ligne](https://SaraBarkat.github.io/Qr-code-component-Frontend-Mentor/)** (si hébergé sur GitHub Pages)
+🔗 **[Démo en ligne](https://SaraBarkat.github.io/Qr-code-component-Frontend-Mentor/)** 
 
